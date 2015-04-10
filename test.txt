@@ -1,3 +1,4 @@
+cloned testrepo 
 this is the test file for git\
 changed part\
 second change
