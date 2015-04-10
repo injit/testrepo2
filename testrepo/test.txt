@@ -1,0 +1,9 @@
+cloned testrepo 
+this is the test file for git\
+changed part\
+second change
+Adding this line
+
+make a diff
+changed from git website
+git change
