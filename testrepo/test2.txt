@@ -1,4 +1,0 @@
-I am using git now.
-making a change
-I deleted virus
-The test.txt was deleted
